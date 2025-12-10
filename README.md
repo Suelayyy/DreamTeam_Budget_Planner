@@ -84,11 +84,6 @@ Preferred communication style: Simple, everyday language.
 
 **Form Validation**: Zod for schema validation with integration into React Hook Form and Drizzle ORM.
 
-**Development Tools**:
-- @replit/vite-plugin-runtime-error-modal for error overlays
-- @replit/vite-plugin-cartographer for code mapping
-- @replit/vite-plugin-dev-banner for development environment indicators
-
 **Build and Bundling**:
 - Vite for frontend builds and development server
 - esbuild for server-side bundling with selective dependency inclusion
